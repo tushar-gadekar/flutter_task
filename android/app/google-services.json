@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989239096310",
+    "project_id": "taskquantasis",
+    "storage_bucket": "taskquantasis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989239096310:android:50f861a18baa8df40dcdd7",
+        "android_client_info": {
+          "package_name": "com.example.task_quantasis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0l2WWVNpn1CU1Abov5yCtPI-yd3Htfwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
