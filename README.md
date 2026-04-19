@@ -5,15 +5,16 @@ A Flutter app where investors can browse investment deals, filter them, and save
 ---
 
 ## 📸 Screenshots
-![Splash](screenshots/splash_screen.jpg)
-![Login](screenshots/login_screen.jpg)
-![Home Screen](screenshots/home_screen.jpg)
-![Detail Screen1](screenshots/detail_screen1.jpg)
-![Detail Screen2](screenshots/detail_screen2.jpg)
-![Filter Screen](screenshots/filter_screen.jpg)
-![Already Filter Screen](screenshots/applyed_filter_screen.jpg)
-![Intrested Screen](screenshots/intrested_screen.jpg)
-
+<p align="center">
+  <img src="screenshots/splash_screen.png" width="200"/>
+  <img src="screenshots/login_screen.png" width="200"/>
+  <img src="screenshots/home_screen.png" width="200"/>
+ <img src="screenshots/detail_screen1.png" width="250"/>
+  <img src="screenshots/detail_screen2.png" width="250"/>
+  <img src="screenshots/filter_screen.png" width="250"/>
+<img src="screenshots/applyed_filter_screen.png" width="250"/>
+  <img src="screenshots/intrested_screen.png" width="250"/>
+</p>
 
 ## ▶️ How to Run
 
