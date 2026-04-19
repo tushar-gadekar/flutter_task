@@ -5,17 +5,17 @@ A Flutter app where investors can browse investment deals, filter them, and save
 ---## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb203d92-c8ce-4cc0-9f69-2c0f658b3195" width="200"/>
-  <img src="https://github.com/user-attachments/assets/f358f9b5-2a48-48c2-82e9-c1f256ee043f" width="200"/>
-  <img src="https://github.com/user-attachments/assets/fc318e46-0ddf-4f2d-92db-821c7f0f2b5a" width="200"/>
-  <img src="https://github.com/user-attachments/assets/8fd89acb-7669-4718-9f06-9ab14a8cf415" width="200"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/a59800f9-7db5-4cc4-a3ff-fd94f7ce510f" width="200"/>
   <img src="https://github.com/user-attachments/assets/b05ff8d1-f3f3-4da9-b1f0-8661aae2cbb6" width="200"/>
   <img src="https://github.com/user-attachments/assets/c2cc9d90-a2e9-4e58-91ee-d25b93a36589" width="200"/>
   <img src="https://github.com/user-attachments/assets/7813d96d-ec89-42cd-b3b4-ee965a4aad47" width="200"/>
+</p>
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/bb203d92-c8ce-4cc0-9f69-2c0f658b3195" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f358f9b5-2a48-48c2-82e9-c1f256ee043f" width="200"/>
+  <img src="https://github.com/user-attachments/assets/fc318e46-0ddf-4f2d-92db-821c7f0f2b5a" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8fd89acb-7669-4718-9f06-9ab14a8cf415" width="200"/>
 </p>
 
 
