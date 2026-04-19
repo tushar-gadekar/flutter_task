@@ -5,7 +5,7 @@ A Flutter app where investors can browse investment deals, filter them, and save
 ---
 
 ## 📸 Screenshots
-<img width="1280" height="2856" alt="Screenshot_20260420_030538" src="https://github.com/user-attachments/assets/bb203d92-c8ce-4cc0-9f69-2c0f658b3195" />
+<img width="280" height="756" alt="Screenshot_20260420_030538" src="https://github.com/user-attachments/assets/bb203d92-c8ce-4cc0-9f69-2c0f658b3195" />
 <img width="1280" height="2856" alt="Screenshot_20260420_030533" src="https://github.com/user-attachments/assets/f358f9b5-2a48-48c2-82e9-c1f256ee043f" />
 <img width="1280" height="2856" alt="Screenshot_20260420_030524" src="https://github.com/user-attachments/assets/fc318e46-0ddf-4f2d-92db-821c7f0f2b5a" />
 <img width="1280" height="2856" alt="Screenshot_20260420_030500" src="https://github.com/user-attachments/assets/8fd89acb-7669-4718-9f06-9ab14a8cf415" />
