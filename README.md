@@ -18,7 +18,7 @@ A Flutter app where investors can browse investment deals, filter them, and save
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-username/assignment.git
+https://github.com/tushar-gadekar/flutter_task.git
 cd assignment
 flutter pub get
 flutter run
